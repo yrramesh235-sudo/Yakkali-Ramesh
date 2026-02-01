@@ -1,0 +1,7 @@
+{
+  "name": "Minimal7 Anime Apparel",
+  "description": "A high-energy, cyber-minimalist anime clothing brand experience featuring AI-powered styling advice and design generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
